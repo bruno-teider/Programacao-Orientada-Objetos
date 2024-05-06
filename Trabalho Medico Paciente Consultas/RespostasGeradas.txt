@@ -1,0 +1,36 @@
+Respostas do programa: 
+
+Lista pacientes do(a) Diogo Pereira:
+Paciente 1: Nicolas Fernandes
+Paciente 2: Miguel Gomes
+Paciente 3: Leila Cavalcanti
+Paciente 4: Davi Almeida
+Paciente 5: Rafaela Alves
+Paciente 6: Matheus Correia
+
+Lista médicos que Luiza Costa já se consultou ou tem agendado:
+Médico 1: Rafaela Santos
+
+Datas das consultas do(a) Diogo Pereira no período citadao: 
+18/03/2021 as 10 horas.
+09/03/2023 as 10 horas.
+29/09/2023 as 12 horas.
+25/12/2023 as 15 horas.
+17/08/2024 as 13 horas.
+04/10/2024 as 15 horas.
+28/10/2024 as 10 horas.
+
+
+O(a) paciente Luiza Costa não teve nenhuma consulta passada. 
+
+
+Consultas passadas do(a) paciente Nicolas Fernandes com médico(a) Diogo Pereira :
+29/09/2023 as 12 horas.
+
+
+Consultas futuras do(a) Nicolas Fernandes: 
+03/09/2024 as 14 horas.
+
+Pacientes que não se consultam com Rafaela Santos a mais de 3 meses: 
+Giovanna Dias
+
